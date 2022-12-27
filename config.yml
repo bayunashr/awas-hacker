@@ -1,0 +1,132 @@
+baseURL: "localhost"
+title: Awas Hacker
+paginate: 5
+theme: PaperMod
+defaultContentLanguage: id
+
+enableRobotsTXT: true
+buildDrafts: true
+buildFuture: false
+buildExpired: false
+
+# googleAnalytics: UA-123-45
+
+publishDir: docs
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Awas Hacker
+  description: "Kenali waspada digital disekitar anda"
+  keywords: [Blog, Digital, Online, Scam, Hacker]
+  author: Bayu Nashrullah
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "2 January 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: false
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: true
+
+  assets:
+    disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "https://raw.githubusercontent.com/bayunashr/awas-hacker/main/assets/favicon/favicon.ico"
+    favicon16x16: "https://raw.githubusercontent.com/bayunashr/awas-hacker/main/assets/favicon/favicon-16x16.png"
+    favicon32x32: "https://raw.githubusercontent.com/bayunashr/awas-hacker/main/assets/favicon/favicon-32x32.png"
+    apple_touch_icon: "https://raw.githubusercontent.com/bayunashr/awas-hacker/main/assets/favicon/apple-icon-180x180.png"
+    # safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "Beranda"
+    icon: https://raw.githubusercontent.com/bayunashr/awas-hacker/main/assets/favicon/apple-icon-180x180.png
+    iconHeight: 35
+
+  # home-info mode
+  homeInfoParams:
+    Title: Selamat Datang di "Awas Hacker"
+    Content: >
+          - Waspada ancaman digital di sekitar anda.
+
+          - Pahami apa yang anda lakukan di dunia maya.
+
+          - Jangan gegabah dan selamat membaca.
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/bayunashr"
+    - name: facebook
+      url: "https://facebook.com/bayu.nashrullah.7"
+    - name: instagram
+      url: "https://instagram.com/bayunashr"
+    - name: saweria
+      url: "https://saweria.co/bayunashr"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  editPost:
+    URL: "https://github.com/bayunashr/awas-hacker/tree/main/content"
+    Text: "Sarankan Perubahan" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: archives
+      name: Arsip
+      url: /archives/
+      weight: 10
+    - identifier: tags
+      name: Tag
+      url: /tags/
+      weight: 20
+    - identifier: search
+      name: "Cari"
+      url: /search/
+      weight: 30
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
