@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>localhost/archives/</loc>
+    <loc>https://bayunashr.github.io/awas-hacker/archives/</loc>
   </url><url>
-    <loc>localhost/</loc>
+    <loc>https://bayunashr.github.io/awas-hacker/</loc>
   </url><url>
-    <loc>localhost/search/</loc>
+    <loc>https://bayunashr.github.io/awas-hacker/search/</loc>
   </url><url>
-    <loc>localhost/categories/</loc>
+    <loc>https://bayunashr.github.io/awas-hacker/categories/</loc>
   </url><url>
-    <loc>localhost/tags/</loc>
+    <loc>https://bayunashr.github.io/awas-hacker/tags/</loc>
   </url>
 </urlset>
