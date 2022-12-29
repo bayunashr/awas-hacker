@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Awas Hacker</title>
-    <link>https://bayunashr.github.io/awas-hacker/</link>
-    <description>Recent content on Awas Hacker</description>
+    <title>Edukasi on Awas Hacker</title>
+    <link>https://bayunashr.github.io/awas-hacker/tags/edukasi/</link>
+    <description>Recent content in Edukasi on Awas Hacker</description>
     <image>
       <url>https://bayunashr.github.io/awas-hacker/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://bayunashr.github.io/awas-hacker/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 29 Dec 2022 17:43:31 +0700</lastBuildDate><atom:link href="https://bayunashr.github.io/awas-hacker/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Dec 2022 17:43:31 +0700</lastBuildDate><atom:link href="https://bayunashr.github.io/awas-hacker/tags/edukasi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Awas Spyware, Virus Yang Memata Matai Data</title>
       <link>https://bayunashr.github.io/awas-hacker/posts/awas-spyware-virus-yang-memata-matai-data/</link>
@@ -45,8 +45,6 @@
       <guid>https://bayunashr.github.io/awas-hacker/posts/mengenal-phising-salah-satu-bentuk-penipuan-online/</guid>
       <description>Phising merupakan sebuah teknik penipuan dengan cara mengarahkan korban untuk memasukkan data-data pribadinya.</description>
     </item>
-    
-    
     
   </channel>
 </rss>
