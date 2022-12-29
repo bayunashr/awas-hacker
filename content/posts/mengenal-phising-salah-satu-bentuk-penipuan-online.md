@@ -33,6 +33,8 @@ Ciri-cirinya sebenernya udah dijelasin di atas, tapi biar jelas, tak list satu-s
 - Hadiahnya gak ngotak
 - Sifatnya maksa
 
+Secara garis besar, cuma itu aja sih.
+
 ## Cara Menghindari Phising
 
 Cara untuk menghindari phising itu dengan tahu mana yang web phising, mana yang bukan, nah cara buat tahu mana yang phising mana bukan adalah dengan baca artikel ini, itu diatas udah dijelasin cara kerja dan ciri-cirinya, intinya jangan neko-neko ngarep hadiah tiba-tiba, kalo perlu samperin instansi yang bersangkutan, tanyain langsung itu hadiah asli apa gak, paling diketawain sama pegawainya.
