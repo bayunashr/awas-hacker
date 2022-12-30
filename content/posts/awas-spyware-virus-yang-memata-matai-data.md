@@ -1,6 +1,6 @@
 ---
 title: "Awas Spyware, Virus Yang Memata Matai Data"
-date: 2022-12-29T17:43:31+07:00
+date: 2022-12-28T17:43:31+07:00
 # weight: 1
 tags: ["Hacker", "Penipuan", "Edukasi", "Scam"]
 draft: false
