@@ -13,7 +13,7 @@ summary: "Phising merupakan sebuah teknik penipuan dengan cara mengarahkan korba
 
 ## Cara Kerja Phising
 
-Cara kerja phising sebenarnya ez, ciri-ciri phising pun sebenarnya sangat gampang di notice, biasanya pelaku phising membuat sebuah website bodong untuk njebak korban, kemudian dengan iming-iming hadiah yang gak masuk akal, pelaku ngemanipulasi korban memasukkan data-data pribadinya, misalnya alamat email dan password untuk ngeklaim hadiah tersebut, dan bodohnya si korban percaya, jaman sekarang mana ada hadiah gratis dari antah berantah bro! Kalaupun ada, dia gak bakal minta aneh-aneh kayak email sekalian passowrdnya!
+Cara kerja phising sebenarnya ez, ciri-ciri phising pun sebenarnya sangat gampang di notice, biasanya pelaku phising membuat sebuah website bodong untuk njebak korban, kemudian dengan iming-iming hadiah yang gak masuk akal, pelaku ngemanipulasi korban memasukkan data-data pribadinya, misalnya alamat email dan password untuk ngeklaim hadiah tersebut, dan dengan cerobohnya si korban percaya, jaman sekarang mana ada hadiah gratis dari antah berantah bro! Kalaupun ada, dia gak bakal minta aneh-aneh kayak email sekalian passowrdnya!
 
 Jadi, jika diurutkan dengan sistematis, cara kerjanya itu seperti ini.
 
