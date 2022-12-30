@@ -3,7 +3,7 @@ title: "Ransomware, Sebuah Virus Yang Dapat Melenyapkan Semua Data"
 date: 2022-12-29T17:36:51+07:00
 # weight: 1
 tags: ["Hacker", "Edukasi", "Scam", "Virus"]
-draft: true
+draft: false
 summary: "Ransomware merupakan sebuah virus yang dapat mengenkripsi seluruh data yang ada di komputer."
 ---
 
